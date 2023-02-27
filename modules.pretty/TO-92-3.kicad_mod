@@ -1,0 +1,15 @@
+(module TO-92-3 (layer F.Cu) (tedit 60AA97F6)
+  (fp_text reference REF** (at 0 2.54) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value TO-92-3 (at 0 -1.27) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -2.6 1.62) (end 2.6 1.62) (layer F.SilkS) (width 0.15))
+  (fp_arc (start 0 0) (end 2.599999 1.619999) (angle -243.8521623) (layer F.SilkS) (width 0.15))
+  (fp_poly (pts (xy -2.6 1.62) (xy -2.9 1) (xy -3 0.2) (xy -3 -0.6)
+    (xy -2.7 -1.5) (xy -2.2 -2.1) (xy -2.2 1.6)) (layer F.SilkS) (width 0))
+  (pad 1 thru_hole oval (at -1.27 0) (size 1 1.6) (drill 0.6) (layers *.Cu *.Mask))
+  (pad 2 thru_hole oval (at 0 0) (size 1 1.6) (drill 0.6) (layers *.Cu *.Mask))
+  (pad 3 thru_hole oval (at 1.27 0) (size 1 1.6) (drill 0.6) (layers *.Cu *.Mask))
+)

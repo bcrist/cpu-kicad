@@ -1,0 +1,300 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74CBTx1G125
+D 1:1 bus switch
+F https://assets.nexperia.com/documents/data-sheet/74CBTLV1G125.pdf
+$ENDCMP
+#
+$CMP 74CBTx3245-EP
+D 8b bus switch
+F https://assets.nexperia.com/documents/data-sheet/74CBTLV3245.pdf
+$ENDCMP
+#
+$CMP 74CBTx3253-EP
+D 2b 4:1 bus switch
+F https://assets.nexperia.com/documents/data-sheet/74CBTLV3253.pdf
+$ENDCMP
+#
+$CMP 74CBTx3257-EP
+D 4b 2:1 bus switch
+F https://assets.nexperia.com/documents/data-sheet/74CBTLV3257.pdf
+$ENDCMP
+#
+$CMP 74CBTx3306
+D dual 1:1 bus switch
+F https://assets.nexperia.com/documents/data-sheet/74CBTLV3306.pdf
+$ENDCMP
+#
+$CMP 74x138
+D 3:8 demux
+F https://assets.nexperia.com/documents/data-sheet/74LVC138A.pdf
+$ENDCMP
+#
+$CMP 74x138-EP
+D 3:8 demux
+F https://assets.nexperia.com/documents/data-sheet/74LVC138A.pdf
+$ENDCMP
+#
+$CMP 74x139
+D dual 2:4 demux
+F https://assets.nexperia.com/documents/data-sheet/74LVC139.pdf
+$ENDCMP
+#
+$CMP 74x139-EP
+D dual 2:4 demux
+F https://assets.nexperia.com/documents/data-sheet/74LVC139.pdf
+$ENDCMP
+#
+$CMP 74x157
+D 4b 2:1 mux
+F https://assets.nexperia.com/documents/data-sheet/74LVC157A.pdf
+$ENDCMP
+#
+$CMP 74x157-EP
+D 4b 2:1 mux
+F https://assets.nexperia.com/documents/data-sheet/74LVC157A.pdf
+$ENDCMP
+#
+$CMP 74x16244
+D quad 4b bus driver, tri-state
+F https://www.ti.com/lit/ds/symlink/sn74lvt16244b.pdf
+$ENDCMP
+#
+$CMP 74x163
+D 4b loadable counter, synchronous clear
+F https://www.ti.com/lit/ds/symlink/sn74lv163a.pdf
+$ENDCMP
+#
+$CMP 74x163-EP
+D 4b loadable counter, synchronous clear
+F https://www.ti.com/lit/ds/symlink/sn74lv163a.pdf
+$ENDCMP
+#
+$CMP 74x165-EP
+D 8b parallel-in serial-out shift register
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT165.pdf
+$ENDCMP
+#
+$CMP 74x1G00
+D 2in NAND
+F https://assets.nexperia.com/documents/data-sheet/74LVC1G00.pdf
+$ENDCMP
+#
+$CMP 74x1G02
+D 2in NOR
+F https://assets.nexperia.com/documents/data-sheet/74LVC2G32.pdf
+$ENDCMP
+#
+$CMP 74x1G08
+D 2in AND
+F https://assets.nexperia.com/documents/data-sheet/74LVC1G08.pdf
+$ENDCMP
+#
+$CMP 74x1G11
+D 3in AND
+F https://www.diodes.com/assets/Datasheets/74LVC1G11.pdf
+$ENDCMP
+#
+$CMP 74x1G139
+D 2:4 demux
+F https://www.ti.com/lit/ds/symlink/sn74lvc1g139.pdf
+$ENDCMP
+#
+$CMP 74x1G14
+D inverter, schmitt-trigger
+F https://www.diodes.com/assets/Datasheets/74LVC1G14.pdf
+$ENDCMP
+#
+$CMP 74x1G157
+D 2:1 mux
+F https://assets.nexperia.com/documents/data-sheet/74LVC1G157.pdf
+$ENDCMP
+#
+$CMP 74x1G19
+D 1:2 demux
+F https://assets.nexperia.com/documents/data-sheet/74LVC1G19.pdf
+$ENDCMP
+#
+$CMP 74x1G27
+D 3in NOR
+F https://assets.nexperia.com/documents/data-sheet/74LVC1G27.pdf
+$ENDCMP
+#
+$CMP 74x1G3157
+D 2:1 bus switch
+F https://assets.nexperia.com/documents/data-sheet/74LVC1G3157.pdf
+$ENDCMP
+#
+$CMP 74x1G32
+D 2in OR
+F https://assets.nexperia.com/documents/data-sheet/74LVC2G32.pdf
+$ENDCMP
+#
+$CMP 74x1G332
+D 3in OR
+F https://assets.nexperia.com/documents/data-sheet/74LVC1G332.pdf
+$ENDCMP
+#
+$CMP 74x1G57
+D universal gate
+F https://www.diodes.com/assets/Datasheets/74LVC1G57.pdf
+$ENDCMP
+#
+$CMP 74x1G58
+D universal gate, inverting
+F https://www.diodes.com/assets/Datasheets/74LVC1G58.pdf
+$ENDCMP
+#
+$CMP 74x1G79
+D register
+F https://assets.nexperia.com/documents/data-sheet/74LVC574A.pdf
+$ENDCMP
+#
+$CMP 74x1G86
+D 2in XOR
+F https://assets.nexperia.com/documents/data-sheet/74LVC1G86.pdf
+$ENDCMP
+#
+$CMP 74x2G04
+D dual inverter
+F https://www.diodes.com/assets/Datasheets/74AUP2G3404.pdf
+$ENDCMP
+#
+$CMP 74x2G08
+D dual 2in AND
+F https://assets.nexperia.com/documents/data-sheet/74LVC2G08.pdf
+$ENDCMP
+#
+$CMP 74x2G14
+D dual inverter, schmitt-trigger
+F https://www.diodes.com/assets/Datasheets/74LVC2G14.pdf
+$ENDCMP
+#
+$CMP 74x2G32
+D dual 2in OR
+F https://assets.nexperia.com/documents/data-sheet/74LVC2G32.pdf
+$ENDCMP
+#
+$CMP 74x2G34
+D dual buffer
+F https://www.diodes.com/assets/Datasheets/74AUP2G3404.pdf
+$ENDCMP
+#
+$CMP 74x2G3404
+D buffer/inverter pair
+F https://assets.nexperia.com/documents/data-sheet/74AUP2G3404.pdf
+$ENDCMP
+#
+$CMP 74x2G86
+D dual 2in XOR
+F https://assets.nexperia.com/documents/data-sheet/74LVC2G86.pdf
+$ENDCMP
+#
+$CMP 74x4020
+D 14b ripple-carry counter, async clear
+F https://www.ti.com/lit/ds/symlink/sn74lvc1g139.pdf
+$ENDCMP
+#
+$CMP 74x4040
+D 12b ripple-carry counter, async clear
+F https://www.ti.com/lit/ds/symlink/sn74lvc1g139.pdf
+$ENDCMP
+#
+$CMP 74x521
+D 8b identity comparator
+F https://www.mouser.com/datasheet/2/698/REN_74FCT521T_DST_20200211-1996147.pdf
+$ENDCMP
+#
+$CMP 74x541
+D 8b bus driver, tri-state
+F https://assets.nexperia.com/documents/data-sheet/74LVC541A.pdf
+$ENDCMP
+#
+$CMP 74x541-EP
+D 8b bus driver, tri-state
+F https://assets.nexperia.com/documents/data-sheet/74LVC541A.pdf
+$ENDCMP
+#
+$CMP 74x573
+D 8b transparent latch, tri-state
+F https://assets.nexperia.com/documents/data-sheet/74LVC573A.pdf
+$ENDCMP
+#
+$CMP 74x573-EP
+D 8b transparent latch, tri-state
+F https://assets.nexperia.com/documents/data-sheet/74LVC573A.pdf
+$ENDCMP
+#
+$CMP 74x574
+D 8b register, tri-state
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT574.pdf
+$ENDCMP
+#
+$CMP 74x574-EP
+D 8b register, tri-state
+F https://assets.nexperia.com/documents/data-sheet/74LVC574A.pdf
+$ENDCMP
+#
+$CMP AP62300TWU-7
+D 4.2-18V 3A Buck Controller, 6-SOT-23
+F https://www.diodes.com/assets/Datasheets/AP62300_AP62301_AP62300T.pdf
+$ENDCMP
+#
+$CMP AS7C3256-12J
+D 32Kx8 SRAM, 28-SOJ
+K sram async
+$ENDCMP
+#
+$CMP ATF1502ASV
+F https://ww1.microchip.com/downloads/en/DeviceDoc/ATF1502ASV-3.3V-32-Macrocell-CPLD-Data-Sheet-20006485A.pdf
+$ENDCMP
+#
+$CMP ATF1504ASV
+F https://ww1.microchip.com/downloads/en/DeviceDoc/ATF1504ASV-ATF1504ASVL-Data-Sheet-20006185A.pdf
+$ENDCMP
+#
+$CMP CY7C1010DV33-10ZX
+D 256Kx8 SRAM 44-TSOP-II
+F https://www.cypress.com/file/42781/download
+$ENDCMP
+#
+$CMP CY7C1061GE30-10BVXI
+D 1Mx16 ECC SRAM 48-FBGA
+F https://www.cypress.com/file/46676/download
+$ENDCMP
+#
+$CMP EMC1702
+D 3-24V I2C High-side Current/Voltage/Temperature Monitor, 12-QFN-EP
+F http://ww1.microchip.com/downloads/en/DeviceDoc/1702.pdf
+$ENDCMP
+#
+$CMP FT230XS
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf
+$ENDCMP
+#
+$CMP IS61WV6416EEBLL-10B
+D 64Kx16 ECC SRAM 48-FBGA
+F http://www.issi.com/WW/pdf/61-64WV6416EEBLL.pdf
+$ENDCMP
+#
+$CMP MIC5504-3.3M5
+D LDO, 3.3V, SOT-23-5
+K ldo
+$ENDCMP
+#
+$CMP NC7SZ125M5X
+D tri-state buffer, 5-SOT-23
+F https://www.mouser.com/datasheet/2/308/1/NC7SZ125_D-2316493.pdf
+$ENDCMP
+#
+$CMP Q_NPN_EBC
+D NPN transistor, emitter/base/collector
+K transistor NPN
+F ~
+$ENDCMP
+#
+$CMP STM32F030C6
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/a4/5d/0b/0e/87/c4/4d/71/DM00088500.pdf/files/DM00088500.pdf
+$ENDCMP
+#
+#End Doc Library

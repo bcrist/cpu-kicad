@@ -1,0 +1,17 @@
+(module taiyo_yuden_nrs8030 (layer F.Cu) (tedit 60AAACFD)
+  (descr https://www.yuden.co.jp/productdata/catalog/wound04_e.pdf)
+  (fp_text reference REF** (at 0 0 90) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value taiyo_yuden_nrs8030 (at 0 -5.1) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -4 -4) (end 4 -4) (layer F.Fab) (width 0.01))
+  (fp_line (start -4 4) (end 4 4) (layer F.Fab) (width 0.01))
+  (fp_line (start 4 -4) (end 4 4) (layer F.Fab) (width 0.01))
+  (fp_line (start -4 -4) (end -4 4) (layer F.Fab) (width 0.01))
+  (fp_line (start -1.7 3.9) (end 1.7 3.9) (layer F.SilkS) (width 0.2))
+  (fp_line (start -1.7 -3.9) (end 1.7 -3.9) (layer F.SilkS) (width 0.2))
+  (pad 1 smd roundrect (at -2.8 0) (size 1.8 7.5) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.167))
+  (pad 2 smd roundrect (at 2.8 0) (size 1.8 7.5) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.167))
+)

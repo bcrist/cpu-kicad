@@ -1,0 +1,30 @@
+(module solder_jumper (layer F.Cu) (tedit 6081DDAB)
+  (attr smd)
+  (fp_text reference REF** (at 0 2) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value solder_jumper (at 0 -2) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy -0.1 -0.8) (xy 0.1 -0.8) (xy 0.1 0.8) (xy -0.1 0.8)) (layer F.Mask) (width 0.1))
+  (pad 1 smd custom (at -0.6604 0) (size 0.1 0.1) (layers F.Cu F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_arc (start 0.5 0) (end 0.5 0.8) (angle 180) (width 0.12))
+      (gr_arc (start 0.5 0) (end 0.5 0.7) (angle 180) (width 0.12))
+      (gr_arc (start 0.5 0) (end 0.5 0.6) (angle 180) (width 0.12))
+      (gr_poly (pts
+         (xy 0.5 -0.8) (xy -0.25 0) (xy 0.5 0.8)) (width 0.12))
+    ))
+  (pad 2 smd custom (at 0.6604 0 180) (size 0.1 0.1) (layers F.Cu F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_arc (start 0.5 0) (end 0.5 0.8) (angle 180) (width 0.12))
+      (gr_arc (start 0.5 0) (end 0.5 0.7) (angle 180) (width 0.12))
+      (gr_arc (start 0.5 0) (end 0.5 0.6) (angle 180) (width 0.12))
+      (gr_poly (pts
+         (xy 0.5 -0.8) (xy -0.25 0) (xy 0.5 0.8)) (width 0.12))
+    ))
+)

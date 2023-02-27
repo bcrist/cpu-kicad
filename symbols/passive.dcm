@@ -1,0 +1,101 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D capacitor
+K capacitor
+F ~
+$ENDCMP
+#
+$CMP CN4
+D quad capacitor network
+K capacitor
+F ~
+$ENDCMP
+#
+$CMP CP
+D polarized capacitor
+K capacitor
+F ~
+$ENDCMP
+#
+$CMP FB
+D ferrite bead
+K ferrite bead
+F ~
+$ENDCMP
+#
+$CMP J
+D Solder Jumper
+$ENDCMP
+#
+$CMP L
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP LED
+D Light emitting diode
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP LED_x12
+D Light emitting diode, array of 12
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP LED_x16
+D Light emitting diode, array of 16
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP LED_x2
+D Light emitting diode, array of 2
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP LED_x24
+D Light emitting diode, array of 24
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP LED_x32
+D Light emitting diode, array of 32
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP LED_x6
+D Light emitting diode, array of 6
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP LED_x8
+D Light emitting diode, array of 8
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP Mount
+D Mounting Hole
+$ENDCMP
+#
+$CMP R
+D resistor
+K resistor
+F ~
+$ENDCMP
+#
+$CMP RN4
+D quad resistor network
+K resistor
+F ~
+$ENDCMP
+#
+#End Doc Library
